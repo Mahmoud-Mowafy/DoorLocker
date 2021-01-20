@@ -1,0 +1,727 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o (exit)
+c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+                              build/default/production/main.o (__do_copy_data)
+c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+                              build/default/production/main.o (strcmp)
+
+Allocating common symbols
+Common symbol       size              file
+
+arr                 0x14              build/default/production/main.o
+creatPass           0x14              build/default/production/main.o
+confirmPass         0x14              build/default/production/main.o
+enteredPass         0x14              build/default/production/main.o
+storedPass          0x14              build/default/production/main.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+ .bss           0x0000000000000000        0x0 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+ .text          0x0000000000000000        0x0 build/default/production/External_EEPROM.o
+ .data          0x0000000000000000        0x0 build/default/production/External_EEPROM.o
+ .bss           0x0000000000000000        0x0 build/default/production/External_EEPROM.o
+ .text.EEPROM_Read_Byte
+                0x0000000000000000       0xa4 build/default/production/External_EEPROM.o
+ .text.EEPROM_Write_Array
+                0x0000000000000000       0x5e build/default/production/External_EEPROM.o
+ .text.EEPROM_Read_Array
+                0x0000000000000000       0x60 build/default/production/External_EEPROM.o
+ .bss.arr.1787  0x0000000000000000       0x14 build/default/production/External_EEPROM.o
+ .text          0x0000000000000000        0x0 build/default/production/SPI.o
+ .data          0x0000000000000000        0x0 build/default/production/SPI.o
+ .bss           0x0000000000000000        0x0 build/default/production/SPI.o
+ .text.SPI_initMaster
+                0x0000000000000000       0x14 build/default/production/SPI.o
+ .text.SPI_sendByte
+                0x0000000000000000        0x8 build/default/production/SPI.o
+ .text.SPI_sendString
+                0x0000000000000000       0x40 build/default/production/SPI.o
+ .text.SPI_receiveString
+                0x0000000000000000       0x42 build/default/production/SPI.o
+ .text          0x0000000000000000        0x0 build/default/production/i2c.o
+ .data          0x0000000000000000        0x0 build/default/production/i2c.o
+ .bss           0x0000000000000000        0x0 build/default/production/i2c.o
+ .text.TWI_Read_With_ACK
+                0x0000000000000000        0xe build/default/production/i2c.o
+ .text.TWI_Read_With_NACK
+                0x0000000000000000        0xe build/default/production/i2c.o
+ .text          0x0000000000000000        0x0 build/default/production/lcd.o
+ .data          0x0000000000000000        0x0 build/default/production/lcd.o
+ .bss           0x0000000000000000        0x0 build/default/production/lcd.o
+ .text          0x0000000000000000        0x0 build/default/production/main.o
+ .data          0x0000000000000000        0x0 build/default/production/main.o
+ .bss           0x0000000000000000        0x0 build/default/production/main.o
+ .text.readPass
+                0x0000000000000000       0x5e build/default/production/main.o
+ .bss.str       0x0000000000000000       0x14 build/default/production/main.o
+ .bss.j         0x0000000000000000        0x1 build/default/production/main.o
+ .text          0x0000000000000000        0x0 build/default/production/timer0.o
+ .data          0x0000000000000000        0x0 build/default/production/timer0.o
+ .bss           0x0000000000000000        0x0 build/default/production/timer0.o
+ .text.timer0_init_normal_mode
+                0x0000000000000000       0x8c build/default/production/timer0.o
+ .text.timer0_init_CTC_mode
+                0x0000000000000000       0x98 build/default/production/timer0.o
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000004000 xr
+data             0x0000000000800060 0x0000000000000400 rw !x
+eeprom           0x0000000000810000 0x0000000000000200 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/production/External_EEPROM.o
+LOAD build/default/production/SPI.o
+LOAD build/default/production/i2c.o
+LOAD build/default/production/lcd.o
+LOAD build/default/production/main.o
+LOAD build/default/production/timer0.o
+START GROUP
+LOAD c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a
+LOAD c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a
+LOAD c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a
+LOAD C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const\libatmega16.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000004000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000400]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000       0xba
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x0000000000000054       0x11 data_init
+                0x0000000000000066                . = ALIGN (0x2)
+ *fill*         0x0000000000000065        0x1 
+                0x0000000000000066                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000066        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000066                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x0000000000000066                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000066                __ctors_start = .
+ *(.ctors)
+                0x0000000000000066                __ctors_end = .
+                0x0000000000000066                __dtors_start = .
+ *(.dtors)
+                0x0000000000000066                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000066        0x0 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+                0x0000000000000066                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000066        0xc C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000072       0x3c c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+                0x0000000000000072                __do_copy_data
+                0x00000000000000a0                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000ae        0x8 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+ *(.init9)
+                0x00000000000000b6                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000000b6        0x0 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+                0x00000000000000b6                _exit
+                0x00000000000000b6                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000000b6        0x4 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000000ba                _etext = .
+
+.data           0x0000000000800060        0x0 load address 0x00000000000000ba
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800060                . = ALIGN (0x2)
+ *fill*         0x0000000000800060        0x0 
+                0x0000000000800060                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000800060       0x64
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+ COMMON         0x0000000000800060       0x64 build/default/production/main.o
+                0x0000000000800060                arr
+                0x0000000000800074                creatPass
+                0x0000000000800088                confirmPass
+                0x000000000080009c                enteredPass
+                0x00000000008000b0                storedPass
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x00000000000000ba                __data_load_start = LOADADDR (.data)
+                0x00000000000000ba                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008000c4        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x00000000008000c4                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/production/External_EEPROM.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 build/default/production/SPI.o
+ .comment       0x000000000000002f       0x30 build/default/production/i2c.o
+ .comment       0x000000000000002f       0x30 build/default/production/lcd.o
+ .comment       0x000000000000002f       0x30 build/default/production/main.o
+ .comment       0x000000000000002f       0x30 build/default/production/timer0.o
+ .comment       0x000000000000002f       0x2c c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+                                         0x2d (size before relaxing)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x1c0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x40 build/default/production/External_EEPROM.o
+ .debug_aranges
+                0x0000000000000040       0x48 build/default/production/SPI.o
+ .debug_aranges
+                0x0000000000000088       0x50 build/default/production/i2c.o
+ .debug_aranges
+                0x00000000000000d8       0x50 build/default/production/lcd.o
+ .debug_aranges
+                0x0000000000000128       0x68 build/default/production/main.o
+ .debug_aranges
+                0x0000000000000190       0x30 build/default/production/timer0.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x2fa9
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x52e C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+ .debug_info    0x000000000000052e      0x6eb build/default/production/External_EEPROM.o
+ .debug_info    0x0000000000000c19      0x384 build/default/production/SPI.o
+ .debug_info    0x0000000000000f9d      0x367 build/default/production/i2c.o
+ .debug_info    0x0000000000001304      0x6a9 build/default/production/lcd.o
+ .debug_info    0x00000000000019ad     0x12d7 build/default/production/main.o
+ .debug_info    0x0000000000002c84      0x325 build/default/production/timer0.o
+
+.debug_abbrev   0x0000000000000000      0xb90
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4e7 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+ .debug_abbrev  0x00000000000004e7      0x164 build/default/production/External_EEPROM.o
+ .debug_abbrev  0x000000000000064b       0xc9 build/default/production/SPI.o
+ .debug_abbrev  0x0000000000000714       0xb2 build/default/production/i2c.o
+ .debug_abbrev  0x00000000000007c6      0x164 build/default/production/lcd.o
+ .debug_abbrev  0x000000000000092a      0x1e8 build/default/production/main.o
+ .debug_abbrev  0x0000000000000b12       0x7e build/default/production/timer0.o
+
+.debug_line     0x0000000000000000     0x1050
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x119 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+ .debug_line    0x0000000000000119      0x299 build/default/production/External_EEPROM.o
+ .debug_line    0x00000000000003b2      0x174 build/default/production/SPI.o
+ .debug_line    0x0000000000000526      0x179 build/default/production/i2c.o
+ .debug_line    0x000000000000069f      0x252 build/default/production/lcd.o
+ .debug_line    0x00000000000008f1      0x529 build/default/production/main.o
+ .debug_line    0x0000000000000e1a      0x236 build/default/production/timer0.o
+
+.debug_frame    0x0000000000000000      0x3b8
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0xcc build/default/production/External_EEPROM.o
+ .debug_frame   0x00000000000000cc       0xa4 build/default/production/SPI.o
+ .debug_frame   0x0000000000000170       0x84 build/default/production/i2c.o
+ .debug_frame   0x00000000000001f4       0xa4 build/default/production/lcd.o
+ .debug_frame   0x0000000000000298       0xdc build/default/production/main.o
+ .debug_frame   0x0000000000000374       0x44 build/default/production/timer0.o
+
+.debug_str      0x0000000000000000      0x316
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x1af C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+ .debug_str     0x00000000000001af       0x50 build/default/production/External_EEPROM.o
+ .debug_str     0x00000000000001ff        0x0 build/default/production/SPI.o
+ .debug_str     0x00000000000001ff        0x0 build/default/production/i2c.o
+ .debug_str     0x00000000000001ff        0x0 build/default/production/lcd.o
+ .debug_str     0x00000000000001ff      0x101 build/default/production/main.o
+ .debug_str     0x0000000000000300       0x16 build/default/production/timer0.o
+
+.debug_loc      0x0000000000000000      0xee9
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x34c build/default/production/External_EEPROM.o
+ .debug_loc     0x000000000000034c       0xbc build/default/production/SPI.o
+ .debug_loc     0x0000000000000408       0x50 build/default/production/i2c.o
+ .debug_loc     0x0000000000000458      0x353 build/default/production/lcd.o
+ .debug_loc     0x00000000000007ab      0x580 build/default/production/main.o
+ .debug_loc     0x0000000000000d2b      0x1be build/default/production/timer0.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x160
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x30 build/default/production/External_EEPROM.o
+ .debug_ranges  0x0000000000000030       0x38 build/default/production/SPI.o
+ .debug_ranges  0x0000000000000068       0x40 build/default/production/i2c.o
+ .debug_ranges  0x00000000000000a8       0x40 build/default/production/lcd.o
+ .debug_ranges  0x00000000000000e8       0x58 build/default/production/main.o
+ .debug_ranges  0x0000000000000140       0x20 build/default/production/timer0.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/project1_MC2.X.production.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+
+.bss.i          0x00000000008000d9        0x1
+ .bss.i         0x00000000008000d9        0x1 build/default/production/main.o
+                0x00000000008000d9                i
+
+.bss.data       0x00000000008000da        0x1
+ .bss.data      0x00000000008000da        0x1 build/default/production/main.o
+                0x00000000008000da                data
+
+.bss.mode       0x00000000008000db        0x1
+ .bss.mode      0x00000000008000db        0x1 build/default/production/main.o
+                0x00000000008000db                mode
+
+.progmemx.data  0x00000000000000ba      0x10e
+ .progmemx.data
+                0x00000000000000ba      0x10e build/default/production/main.o
+
+.text.main      0x00000000000001c8      0x124
+ .text.main     0x00000000000001c8      0x124 build/default/production/main.o
+                0x00000000000001c8                main
+
+.text.createNewPass
+                0x00000000000002ec      0x100
+ .text.createNewPass
+                0x00000000000002ec      0x100 build/default/production/main.o
+                0x00000000000002ec                createNewPass
+
+.text.comparePass
+                0x00000000000003ec       0xa6
+ .text.comparePass
+                0x00000000000003ec       0xa6 build/default/production/main.o
+                0x00000000000003ec                comparePass
+
+.text.timer0_init_pwm_mode
+                0x0000000000000492       0x94
+ .text.timer0_init_pwm_mode
+                0x0000000000000492       0x94 build/default/production/timer0.o
+                0x0000000000000492                timer0_init_pwm_mode
+
+.text.checkPassword
+                0x0000000000000526       0x7c
+ .text.checkPassword
+                0x0000000000000526       0x7c build/default/production/main.o
+                0x0000000000000526                checkPassword
+
+.text.checkDefaultPassword
+                0x00000000000005a2       0x74
+ .text.checkDefaultPassword
+                0x00000000000005a2       0x74 build/default/production/main.o
+                0x00000000000005a2                checkDefaultPassword
+
+.text.EEPROM_Write_Byte
+                0x0000000000000616       0x6e
+ .text.EEPROM_Write_Byte
+                0x0000000000000616       0x6e build/default/production/External_EEPROM.o
+                0x0000000000000616                EEPROM_Write_Byte
+
+.text.User      0x0000000000000684       0x6a
+ .text.User     0x0000000000000684       0x6a build/default/production/main.o
+                0x0000000000000684                User
+
+.text.storePass
+                0x00000000000006ee       0x60
+ .text.storePass
+                0x00000000000006ee       0x60 build/default/production/main.o
+                0x00000000000006ee                storePass
+
+.text.LCD_integerToString
+                0x000000000000074e       0x5e
+ .text.LCD_integerToString
+                0x000000000000074e       0x5e build/default/production/lcd.o
+                0x000000000000074e                LCD_integerToString
+
+.text.avrlibc   0x00000000000007ac       0x42
+ .text.avrlibc  0x00000000000007ac       0x42 c:/program files/microchip/xc8/v2.20/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+                0x00000000000007ac                strcmp
+
+.text.LCD_sendCommand
+                0x00000000000007ee       0x3c
+ .text.LCD_sendCommand
+                0x00000000000007ee       0x3c build/default/production/lcd.o
+                0x00000000000007ee                LCD_sendCommand
+
+.text.LCD_displayChracter
+                0x000000000000082a       0x3c
+ .text.LCD_displayChracter
+                0x000000000000082a       0x3c build/default/production/lcd.o
+                0x000000000000082a                LCD_displayChracter
+
+.text.LCD_displayString
+                0x0000000000000866       0x36
+ .text.LCD_displayString
+                0x0000000000000866       0x36 build/default/production/lcd.o
+                0x0000000000000866                LCD_displayString
+
+.text.LCD_goToRowColumn
+                0x000000000000089c       0x2e
+ .text.LCD_goToRowColumn
+                0x000000000000089c       0x2e build/default/production/lcd.o
+                0x000000000000089c                LCD_goToRowColumn
+
+.text.integerToString
+                0x00000000000008ca       0x26
+ .text.integerToString
+                0x00000000000008ca       0x26 build/default/production/main.o
+                0x00000000000008ca                integerToString
+
+.text.clear_string
+                0x00000000000008f0       0x20
+ .text.clear_string
+                0x00000000000008f0       0x20 build/default/production/main.o
+                0x00000000000008f0                clear_string
+
+.text.LCD_init  0x0000000000000910       0x1e
+ .text.LCD_init
+                0x0000000000000910       0x1e build/default/production/lcd.o
+                0x0000000000000910                LCD_init
+
+.text.TWI_Init  0x000000000000092e        0xe
+ .text.TWI_Init
+                0x000000000000092e        0xe build/default/production/i2c.o
+                0x000000000000092e                TWI_Init
+
+.text.TWI_Write
+                0x000000000000093c        0xe
+ .text.TWI_Write
+                0x000000000000093c        0xe build/default/production/i2c.o
+                0x000000000000093c                TWI_Write
+
+.text.SPI_initSlave
+                0x000000000000094a        0xc
+ .text.SPI_initSlave
+                0x000000000000094a        0xc build/default/production/SPI.o
+                0x000000000000094a                SPI_initSlave
+
+.text.TWI_Start
+                0x0000000000000956        0xc
+ .text.TWI_Start
+                0x0000000000000956        0xc build/default/production/i2c.o
+                0x0000000000000956                TWI_Start
+
+.text.SPI_receiveByte
+                0x0000000000000962        0x8
+ .text.SPI_receiveByte
+                0x0000000000000962        0x8 build/default/production/SPI.o
+                0x0000000000000962                SPI_receiveByte
+
+.text.LCD_clear
+                0x000000000000096a        0x8
+ .text.LCD_clear
+                0x000000000000096a        0x8 build/default/production/lcd.o
+                0x000000000000096a                LCD_clear
+
+.text.EEPROM_Init
+                0x0000000000000972        0x6
+ .text.EEPROM_Init
+                0x0000000000000972        0x6 build/default/production/External_EEPROM.o
+                0x0000000000000972                EEPROM_Init
+
+.text.TWI_Stop  0x0000000000000978        0x6
+ .text.TWI_Stop
+                0x0000000000000978        0x6 build/default/production/i2c.o
+                0x0000000000000978                TWI_Stop
+
+.text.TWI_Get_Status
+                0x000000000000097e        0x6
+ .text.TWI_Get_Status
+                0x000000000000097e        0x6 build/default/production/i2c.o
+                0x000000000000097e                TWI_Get_Status
+
+.text           0x0000000000000984        0x4
+ .text          0x0000000000000984        0x4 C:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega16.o
+                0x0000000000000984                __vector_1
+                0x0000000000000984                __vector_12
+                0x0000000000000984                __bad_interrupt
+                0x0000000000000984                __vector_6
+                0x0000000000000984                __vector_3
+                0x0000000000000984                __vector_11
+                0x0000000000000984                __vector_13
+                0x0000000000000984                __vector_17
+                0x0000000000000984                __vector_19
+                0x0000000000000984                __vector_7
+                0x0000000000000984                __vector_5
+                0x0000000000000984                __vector_4
+                0x0000000000000984                __vector_9
+                0x0000000000000984                __vector_2
+                0x0000000000000984                __vector_15
+                0x0000000000000984                __vector_8
+                0x0000000000000984                __vector_14
+                0x0000000000000984                __vector_10
+                0x0000000000000984                __vector_16
+                0x0000000000000984                __vector_18
+                0x0000000000000984                __vector_20
+
+.data.defaultPass
+                0x00000000008000c4       0x14 load address 0x0000000000000988
+ .data.defaultPass
+                0x00000000008000c4       0x14 build/default/production/main.o
+                0x00000000008000c4                defaultPass
+
+.data.state     0x00000000008000d8        0x1 load address 0x000000000000099c
+ .data.state    0x00000000008000d8        0x1 build/default/production/main.o
+                0x00000000008000d8                state
